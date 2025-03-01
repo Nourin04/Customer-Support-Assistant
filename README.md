@@ -24,7 +24,7 @@ A smart AI-powered customer support assistant that categorizes queries, analyzes
 
 Check out the live demo: **[Customer Support Assistant on Hugging Face Spaces](https://huggingface.co/spaces/your-space-name)**
 
-![UI Preview](![Screenshot (76)](https://github.com/user-attachments/assets/ec769cf4-e4e2-461b-b469-d5c84b38c0dd))  
+[UI Preview](![Screenshot (76)](https://github.com/user-attachments/assets/ec769cf4-e4e2-461b-b469-d5c84b38c0dd))  
 
 ---
 
