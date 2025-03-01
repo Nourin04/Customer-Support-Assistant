@@ -3,6 +3,8 @@
 
 A smart AI-powered customer support assistant that categorizes queries, analyzes sentiment, and generates responses based on query type. This project leverages **LangChain**, **Groq's LLaMA 3**, and **Gradio** for an interactive and user-friendly interface. It is deployed on **Hugging Face Spaces** for easy accessibility.
 
+
+
 ---
 
 ## 🚀 Features
@@ -14,13 +16,15 @@ A smart AI-powered customer support assistant that categorizes queries, analyzes
 ✅ **Modern UI**: Light-themed, spacious, and user-friendly design powered by **Gradio**.  
 ✅ **Deployed on Hugging Face Spaces**: Easily accessible without requiring local installation.  
 
+
+
 ---
 
 ## 📷 **Project Demo**
 
 Check out the live demo: **[Customer Support Assistant on Hugging Face Spaces](https://huggingface.co/spaces/your-space-name)**
 
-![UI Preview](https://your-image-link.png)  
+![UI Preview](![Screenshot (76)](https://github.com/user-attachments/assets/ec769cf4-e4e2-461b-b469-d5c84b38c0dd))  
 
 ---
 
